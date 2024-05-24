@@ -12,6 +12,7 @@ public class Character {
      }
     }
 }
+// simple
 
 // So basically in this code first
 // have the n for all lines

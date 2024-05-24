@@ -28,3 +28,4 @@ public class Bionomial {
 // so basicall first in factorial function
 // then bionomial function which includes the para
 // in main function we just call what we want
+// simple
