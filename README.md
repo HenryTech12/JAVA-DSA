@@ -33,5 +33,5 @@ Ensure you have the following installed on your local machine:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/java-dsa.git
+   git clone https://github.com/harshjoshi1312/java-dsa.git
    cd java-dsa
