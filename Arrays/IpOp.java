@@ -22,5 +22,9 @@ public class IpOp {
  // for th average of AN ARRAY
             int count = (Marks[0] + Marks[1]  + Marks[2])/3;
             System.out.println(count);
+
+            // for to check the length of array
+          int length =  Marks.length;
+          System.out.println(length);
     }
 }
