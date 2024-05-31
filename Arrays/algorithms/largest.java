@@ -1,7 +1,7 @@
 package algorithms;
 
 public class largest {
-    
+
     public static int getLargest(int Numbers[]){
             int largest = Integer.MIN_VALUE; // minus value is this
 

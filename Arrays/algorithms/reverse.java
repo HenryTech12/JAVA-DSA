@@ -27,3 +27,10 @@ public class reverse {
         }
     }
 }
+
+// personally i like this code seriously 
+// take arrays pass in function one variable change first and last in third
+// variable and just increse and decrease the variables and void type function
+//make loop and print the new array nice broo..
+// basically reverse is sorting algo which can use for the initializing the var without
+// change them

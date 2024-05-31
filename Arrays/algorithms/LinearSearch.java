@@ -1,3 +1,4 @@
+package algorithms;
 public class LinearSearch {
      // function for the linear search
     public static int Check (int Numbers[], int key){
@@ -25,3 +26,4 @@ public class LinearSearch {
     }
 }
 
+`
