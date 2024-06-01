@@ -39,3 +39,9 @@ public class SumMaxSubarray {
         subarays(max);
     }
 }
+
+
+
+// subarrays logic
+//comapare operations
+//compare with to make new aarays 
