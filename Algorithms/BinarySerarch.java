@@ -1,7 +1,7 @@
 
 
-// in the binary serach find the mid of array and convert it two parts
-// and shows that which is most efficient answer
+// in the binary serach find the mid of array and convert it two parts;
+// and shows that which is most efficient answer;
 // in this two variables available start , end index;
 // and one one key is available for to find
 
