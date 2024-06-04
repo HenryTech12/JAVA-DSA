@@ -16,8 +16,8 @@ public class SelctionSort {
             }
             int temp = arr[minPass];
             arr [minPass] = arr[i];
-            arr[i] = temp;
-
+            arr[i] = temp;oih
+            
         }
     }
     public static void main(String[] args) {
