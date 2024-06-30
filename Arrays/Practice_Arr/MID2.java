@@ -1,4 +1,4 @@
-package Arrays.Practice_Arr;
+// package Arrays.Practice_Arr;
 
 public class MID2 {
 

@@ -7,6 +7,15 @@ public class Ternary {
     
     String type = ((number%2) ==0)? "even": "odd";
     System.out.println(type);
+
+
+    int pass = 33;
+
+    String result = (pass>=33)? "pass":"fail";
+    System.out.println(result);
     }
+
+
+
     
 }

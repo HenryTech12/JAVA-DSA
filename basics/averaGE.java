@@ -16,9 +16,9 @@ public class averaGE {
 
         // side of square
         System.out.println("its time to square");
-        int a = sc.nextInt();
-        int sum = (a*a);
-        System.out.println(sum);
+        int aa = sc.nextInt();
+        int summ = (aa*aa);
+        System.out.println(summ);
 
 
         float pencil = sc.nextFloat();

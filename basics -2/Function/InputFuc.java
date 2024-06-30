@@ -26,7 +26,7 @@ public class InputFuc {
          Scanner sc = new Scanner(System.in);
          int a = sc.nextInt();
         int b = sc.nextInt();
-       Cals(12, 13);
+       Cals(a,b);
      }
 }
 
