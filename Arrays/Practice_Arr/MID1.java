@@ -1,4 +1,4 @@
-// in this que =stion find the trappedd
+// in this question find the trappedd
 // water which is stored in to the
 // big  boundrys
 
