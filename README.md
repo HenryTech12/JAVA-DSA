@@ -61,9 +61,7 @@ To use this library, make sure you have the following software installed:
 ### 📥 Installation
 
 Follow these steps to set up the library on your local machine:
-# Java DSA Library
 
-Welcome to the Java Data Structures and Algorithms (DSA) Library! This project aims to provide a comprehensive collection of data structures and algorithms implemented in Java, helping developers and students to enhance their understanding and skills in DSA.
 
 ![](https://i.imgur.com/waxVImv.png)
 
