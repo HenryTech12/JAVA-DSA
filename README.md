@@ -1,6 +1,8 @@
 # 🏆 Java DSA Library
 
 Welcome to the **Java DSA (Data Structures and Algorithms) Library**! This repository offers comprehensive and efficient implementations of essential data structures and algorithms in Java. It's perfect for both educational purposes and real-world applications. Whether you're a student aiming to master DSA or a developer looking to integrate these concepts into your projects, this library is your ideal resource.
+![](https://i.imgur.com/waxVImv.png)
+
 
 ## 📚 Table of Contents
 
@@ -63,6 +65,8 @@ Follow these steps to set up the library on your local machine:
 
 Welcome to the Java Data Structures and Algorithms (DSA) Library! This project aims to provide a comprehensive collection of data structures and algorithms implemented in Java, helping developers and students to enhance their understanding and skills in DSA.
 
+![](https://i.imgur.com/waxVImv.png)
+
 ## 🤝 Contributing
 
 We welcome contributions to the Java DSA Library! Whether it's fixing bugs, adding new features, or improving documentation, your contributions are greatly appreciated. To contribute, please follow these steps:
@@ -72,7 +76,7 @@ We welcome contributions to the Java DSA Library! Whether it's fixing bugs, addi
 2. **Clone Your Fork**: Clone your fork to your local machine using the following command:
 
     ```bash
-    git clone https://github.com/your-username/java-dsa.git
+    git clone https://github.com/harshjoshi1312/java-dsa.git
     cd java-dsa
     ```
 
