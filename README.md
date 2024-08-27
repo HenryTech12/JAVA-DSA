@@ -144,7 +144,7 @@ This project is licensed under the MIT License. You can freely use, modify, and 
 
 For any questions, suggestions, or collaboration requests, feel free to reach out:
 
-- **Email**: joshiharsh1312@gmail.com
+- **Email**: joshiharsh1312@gmail.com .
 - **GitHub**: [harshjoshi1312](https://github.com/harshjoshi1312)
 
 We look forward to your feedback and contributions!
